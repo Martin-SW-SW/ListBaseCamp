@@ -1,0 +1,11 @@
+C:\c#_code\ListBaseCamp\bin\Debug\netcoreapp3.1\ListBaseCamp.exe
+C:\c#_code\ListBaseCamp\bin\Debug\netcoreapp3.1\ListBaseCamp.deps.json
+C:\c#_code\ListBaseCamp\bin\Debug\netcoreapp3.1\ListBaseCamp.runtimeconfig.json
+C:\c#_code\ListBaseCamp\bin\Debug\netcoreapp3.1\ListBaseCamp.runtimeconfig.dev.json
+C:\c#_code\ListBaseCamp\bin\Debug\netcoreapp3.1\ListBaseCamp.dll
+C:\c#_code\ListBaseCamp\bin\Debug\netcoreapp3.1\ListBaseCamp.pdb
+C:\c#_code\ListBaseCamp\obj\Debug\netcoreapp3.1\ListBaseCamp.csprojAssemblyReference.cache
+C:\c#_code\ListBaseCamp\obj\Debug\netcoreapp3.1\ListBaseCamp.AssemblyInfoInputs.cache
+C:\c#_code\ListBaseCamp\obj\Debug\netcoreapp3.1\ListBaseCamp.AssemblyInfo.cs
+C:\c#_code\ListBaseCamp\obj\Debug\netcoreapp3.1\ListBaseCamp.dll
+C:\c#_code\ListBaseCamp\obj\Debug\netcoreapp3.1\ListBaseCamp.pdb
